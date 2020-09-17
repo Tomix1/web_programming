@@ -1,0 +1,19 @@
+{
+    "name": "ivan/my_project",
+    "description": "my_project",
+    "type": "project",
+    "require": {
+        "doctrine/common": "^3.0",
+        "php-http/client-common": "^2.3",
+        "wizaplace/php-fpm-status-cli": "^1.0",
+        "curl/curl": "^2.3",
+        "ext-mbstring": "^7.3",
+        "ext-dom": "20031129"
+    },
+    "authors": [
+        {
+            "name": "ivan",
+            "email": "vanofilik@mail.ru"
+        }
+    ]
+}
